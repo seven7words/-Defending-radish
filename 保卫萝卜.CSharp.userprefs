@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FFDEEA6B-5BC7-3D44-FEF1-F2765A496F4E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/Scripts/Framework/Singleton.cs">
+    <Files>
+      <File FileName="Assets/Game/Scripts/Framework/Singleton.cs" Line="21" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.保卫萝卜.CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
